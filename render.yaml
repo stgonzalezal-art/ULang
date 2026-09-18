@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ulang
+    runtime: docker
+    plan: free
+    region: ohio
+    healthCheckPath: /
+    autoDeploy: true
+    # La API solo lee el catalogo (que GitHub Actions mantiene actualizado).
+    # El trabajador NO corre aqui para no duplicar; corre en Actions.
+    dockerCommand: python servidor.py

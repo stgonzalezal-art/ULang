@@ -1,0 +1,10 @@
+[Unit]
+Description=Ejecuta el agente ULang cada noche (02:00)
+
+[Timer]
+OnCalendar=*-*-* 02:00:00
+Persistent=true
+RandomizedDelaySec=600
+
+[Install]
+WantedBy=timers.target

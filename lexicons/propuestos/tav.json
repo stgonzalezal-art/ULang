@@ -1,0 +1,14 @@
+{
+  "idioma": "Tatuyo",
+  "iso3": "tav",
+  "estado": "propuesto_sin_validar",
+  "nota": "PLANTILLA VACIA. Las palabras clave deben provenir de literatura publicada o de hablantes; nunca inventarse. Al validar, cambiar 'estado' a 'validado' y anadir las referencias.",
+  "fuente_metadatos": {
+    "tipo": "wikidata",
+    "qid": "Q2524007",
+    "url": "http://www.wikidata.org/entity/Q2524007",
+    "licencia": "CC0"
+  },
+  "referencias": [],
+  "palabras": {}
+}

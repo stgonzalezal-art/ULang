@@ -1,0 +1,16 @@
+[Unit]
+Description=ULang - trabajador 24/7 (catalogo de lenguas, sin IA)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ulang
+WorkingDirectory=/opt/ulang
+ExecStart=/opt/ulang/venv/bin/python /opt/ulang/trabajador.py --intervalo 3600
+Restart=always
+RestartSec=10
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target

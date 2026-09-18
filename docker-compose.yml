@@ -1,0 +1,20 @@
+services:
+  servidor:
+    build: .
+    restart: unless-stopped
+    command: ["python", "servidor.py"]
+    ports:
+      - "${PORT:-8080}:8080"
+    volumes:
+      - ./datos:/app/datos
+      - ./lexicons:/app/lexicons
+    environment:
+      - PORT=8080
+
+  trabajador:
+    build: .
+    restart: unless-stopped
+    command: ["python", "trabajador.py", "--intervalo", "3600"]
+    volumes:
+      - ./datos:/app/datos
+      - ./lexicons:/app/lexicons

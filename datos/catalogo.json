@@ -1,0 +1,1172 @@
+{
+  "tnd": {
+    "iso3": "tnd",
+    "qid": "Q25559604",
+    "nombre": "Angosturas Tunebo",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q25559604",
+      "url": "http://www.wikidata.org/entity/Q25559604",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "aoh": {
+    "iso3": "aoh",
+    "qid": "Q3507971",
+    "nombre": "Arma",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3507971",
+      "url": "http://www.wikidata.org/entity/Q3507971",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "bsn": {
+    "iso3": "bsn",
+    "qid": "Q2883843",
+    "nombre": "Barasana-Eduria",
+    "hablantes": 1900,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2883843",
+      "url": "http://www.wikidata.org/entity/Q2883843",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tbn": {
+    "iso3": "tbn",
+    "qid": "Q12953943",
+    "nombre": "Barro Negro Tunebo",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q12953943",
+      "url": "http://www.wikidata.org/entity/Q12953943",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "bdc": {
+    "iso3": "bdc",
+    "qid": "Q11173166",
+    "nombre": "Baudo",
+    "hablantes": 5000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q11173166",
+      "url": "http://www.wikidata.org/entity/Q11173166",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "kvn": {
+    "iso3": "kvn",
+    "qid": "Q31777873",
+    "nombre": "Border Kuna",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q31777873",
+      "url": "http://www.wikidata.org/entity/Q31777873",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "crf": {
+    "iso3": "crf",
+    "qid": "Q3504195",
+    "nombre": "Caramanta",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3504195",
+      "url": "http://www.wikidata.org/entity/Q3504195",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cbc": {
+    "iso3": "cbc",
+    "qid": "Q924405",
+    "nombre": "Carapana",
+    "hablantes": 482,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q924405",
+      "url": "http://www.wikidata.org/entity/Q924405",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cto": {
+    "iso3": "cto",
+    "qid": "Q3052039",
+    "nombre": "Catio",
+    "hablantes": 15000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3052039",
+      "url": "http://www.wikidata.org/entity/Q3052039",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cca": {
+    "iso3": "cca",
+    "qid": "Q5054242",
+    "nombre": "Cauca",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q5054242",
+      "url": "http://www.wikidata.org/entity/Q5054242",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tuf": {
+    "iso3": "tuf",
+    "qid": "Q12953942",
+    "nombre": "Central Tunebo",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q12953942",
+      "url": "http://www.wikidata.org/entity/Q12953942",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cmi": {
+    "iso3": "cmi",
+    "qid": "Q3052042",
+    "nombre": "Chami",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3052042",
+      "url": "http://www.wikidata.org/entity/Q3052042",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "coe": {
+    "iso3": "coe",
+    "qid": "Q3198924",
+    "nombre": "Coreguaje",
+    "hablantes": 2100,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3198924",
+      "url": "http://www.wikidata.org/entity/Q3198924",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "icr": {
+    "iso3": "icr",
+    "qid": "Q2044587",
+    "nombre": "Criollo sanandresano",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2044587",
+      "url": "http://www.wikidata.org/entity/Q2044587",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cui": {
+    "iso3": "cui",
+    "qid": "Q2980421",
+    "nombre": "Cuiba",
+    "hablantes": 2900,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2980421",
+      "url": "http://www.wikidata.org/entity/Q2980421",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "mbp": {
+    "iso3": "mbp",
+    "qid": "Q3012604",
+    "nombre": "Damana",
+    "hablantes": 1850,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3012604",
+      "url": "http://www.wikidata.org/entity/Q3012604",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tdc": {
+    "iso3": "tdc",
+    "qid": "Q3052041",
+    "nombre": "Emberá-Tadó",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3052041",
+      "url": "http://www.wikidata.org/entity/Q3052041",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "sja": {
+    "iso3": "sja",
+    "qid": "Q3055682",
+    "nombre": "Eperara",
+    "hablantes": 3802,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3055682",
+      "url": "http://www.wikidata.org/entity/Q3055682",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "guo": {
+    "iso3": "guo",
+    "qid": "Q2980375",
+    "nombre": "Guayabero",
+    "hablantes": 1000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2980375",
+      "url": "http://www.wikidata.org/entity/Q2980375",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cbb": {
+    "iso3": "cbb",
+    "qid": "Q3450660",
+    "nombre": "Idioma cabiyarí",
+    "hablantes": 270,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3450660",
+      "url": "http://www.wikidata.org/entity/Q3450660",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cby": {
+    "iso3": "cby",
+    "qid": "Q3441762",
+    "nombre": "Idioma carabayo",
+    "hablantes": 150,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3441762",
+      "url": "http://www.wikidata.org/entity/Q3441762",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cbd": {
+    "iso3": "cbd",
+    "qid": "Q3446655",
+    "nombre": "Idioma carijona",
+    "hablantes": 10,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3446655",
+      "url": "http://www.wikidata.org/entity/Q3446655",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "con": {
+    "iso3": "con",
+    "qid": "Q2669254",
+    "nombre": "Idioma cofán",
+    "hablantes": 1700,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2669254",
+      "url": "http://www.wikidata.org/entity/Q2669254",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "gvc": {
+    "iso3": "gvc",
+    "qid": "Q3566001",
+    "nombre": "Idioma guanano",
+    "hablantes": 2600,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3566001",
+      "url": "http://www.wikidata.org/entity/Q3566001",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cbv": {
+    "iso3": "cbv",
+    "qid": "Q3192052",
+    "nombre": "Idioma kãkwã",
+    "hablantes": 250,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3192052",
+      "url": "http://www.wikidata.org/entity/Q3192052",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "mbr": {
+    "iso3": "mbr",
+    "qid": "Q3346228",
+    "nombre": "Idioma nukak",
+    "hablantes": 831,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3346228",
+      "url": "http://www.wikidata.org/entity/Q3346228",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pbb": {
+    "iso3": "pbb",
+    "qid": "Q33677",
+    "nombre": "Idioma paez",
+    "hablantes": 140000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q33677",
+      "url": "http://www.wikidata.org/entity/Q33677",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pij": {
+    "iso3": "pij",
+    "qid": "Q7193519",
+    "nombre": "Idioma pijao",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q7193519",
+      "url": "http://www.wikidata.org/entity/Q7193519",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ttk": {
+    "iso3": "ttk",
+    "qid": "Q3532756",
+    "nombre": "Idioma totoró",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3532756",
+      "url": "http://www.wikidata.org/entity/Q3532756",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tuo": {
+    "iso3": "tuo",
+    "qid": "Q3541834",
+    "nombre": "Idioma tucano",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3541834",
+      "url": "http://www.wikidata.org/entity/Q3541834",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "yup": {
+    "iso3": "yup",
+    "qid": "Q3441447",
+    "nombre": "Idioma yukpa",
+    "hablantes": 7500,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3441447",
+      "url": "http://www.wikidata.org/entity/Q3441447",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "yui": {
+    "iso3": "yui",
+    "qid": "Q3573266",
+    "nombre": "Idioma yurutí",
+    "hablantes": 1200,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3573266",
+      "url": "http://www.wikidata.org/entity/Q3573266",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "inj": {
+    "iso3": "inj",
+    "qid": "Q16115012",
+    "nombre": "Jungle Inga",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q16115012",
+      "url": "http://www.wikidata.org/entity/Q16115012",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "kpc": {
+    "iso3": "kpc",
+    "qid": "Q2882543",
+    "nombre": "Kurripako",
+    "hablantes": 4000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2882543",
+      "url": "http://www.wikidata.org/entity/Q2882543",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "csn": {
+    "iso3": "csn",
+    "qid": "Q2748229",
+    "nombre": "Lengua de Señas Colombiana",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2748229",
+      "url": "http://www.wikidata.org/entity/Q2748229",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "prz": {
+    "iso3": "prz",
+    "qid": "Q3322084",
+    "nombre": "Lengua de señas de Providencia",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3322084",
+      "url": "http://www.wikidata.org/entity/Q3322084",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "mcl": {
+    "iso3": "mcl",
+    "qid": "Q6722435",
+    "nombre": "Macaguaje",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q6722435",
+      "url": "http://www.wikidata.org/entity/Q6722435",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "mbn": {
+    "iso3": "mbn",
+    "qid": "Q3273980",
+    "nombre": "Macaguán",
+    "hablantes": 513,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3273980",
+      "url": "http://www.wikidata.org/entity/Q3273980",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "myy": {
+    "iso3": "myy",
+    "qid": "Q3275059",
+    "nombre": "Macuna",
+    "hablantes": 1032,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3275059",
+      "url": "http://www.wikidata.org/entity/Q3275059",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "emp": {
+    "iso3": "emp",
+    "qid": "Q2391297",
+    "nombre": "Northern Embera",
+    "hablantes": 72000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2391297",
+      "url": "http://www.wikidata.org/entity/Q2391297",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "oca": {
+    "iso3": "oca",
+    "qid": "Q3182577",
+    "nombre": "Ocaina",
+    "hablantes": 190,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3182577",
+      "url": "http://www.wikidata.org/entity/Q3182577",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pid": {
+    "iso3": "pid",
+    "qid": "Q3382207",
+    "nombre": "Piaroa",
+    "hablantes": 13770,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3382207",
+      "url": "http://www.wikidata.org/entity/Q3382207",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pir": {
+    "iso3": "pir",
+    "qid": "Q3389119",
+    "nombre": "Piratapuyo",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3389119",
+      "url": "http://www.wikidata.org/entity/Q3389119",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "gob": {
+    "iso3": "gob",
+    "qid": "Q3027923",
+    "nombre": "Playero",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3027923",
+      "url": "http://www.wikidata.org/entity/Q3027923",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "rmy": {
+    "iso3": "rmy",
+    "qid": "Q2669199",
+    "nombre": "Romaní vlax",
+    "hablantes": 538480,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2669199",
+      "url": "http://www.wikidata.org/entity/Q2669199",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "slc": {
+    "iso3": "slc",
+    "qid": "Q3441097",
+    "nombre": "Saliba",
+    "hablantes": 1500,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3441097",
+      "url": "http://www.wikidata.org/entity/Q3441097",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "snn": {
+    "iso3": "snn",
+    "qid": "Q3485116",
+    "nombre": "Siona",
+    "hablantes": 550,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3485116",
+      "url": "http://www.wikidata.org/entity/Q3485116",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "sri": {
+    "iso3": "sri",
+    "qid": "Q3485264",
+    "nombre": "Siriano",
+    "hablantes": 220,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3485264",
+      "url": "http://www.wikidata.org/entity/Q3485264",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ten": {
+    "iso3": "ten",
+    "qid": "Q3832969",
+    "nombre": "Tama",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3832969",
+      "url": "http://www.wikidata.org/entity/Q3832969",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tnc": {
+    "iso3": "tnc",
+    "qid": "Q36535",
+    "nombre": "Tanimuca",
+    "hablantes": 300,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q36535",
+      "url": "http://www.wikidata.org/entity/Q36535",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tav": {
+    "iso3": "tav",
+    "qid": "Q2524007",
+    "nombre": "Tatuyo",
+    "hablantes": 400,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2524007",
+      "url": "http://www.wikidata.org/entity/Q2524007",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tnb": {
+    "iso3": "tnb",
+    "qid": "Q57660014",
+    "nombre": "Western Tunebo",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q57660014",
+      "url": "http://www.wikidata.org/entity/Q57660014",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ynu": {
+    "iso3": "ynu",
+    "qid": "Q8050347",
+    "nombre": "Yauna",
+    "hablantes": 95,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q8050347",
+      "url": "http://www.wikidata.org/entity/Q8050347",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "aca": {
+    "iso3": "aca",
+    "qid": "Q2822982",
+    "nombre": "achagua",
+    "hablantes": 514,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2822982",
+      "url": "http://www.wikidata.org/entity/Q2822982",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "bwi": {
+    "iso3": "bwi",
+    "qid": "Q3501735",
+    "nombre": "baniwa",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3501735",
+      "url": "http://www.wikidata.org/entity/Q3501735",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "boa": {
+    "iso3": "boa",
+    "qid": "Q2375468",
+    "nombre": "bora",
+    "hablantes": 2400,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2375468",
+      "url": "http://www.wikidata.org/entity/Q2375468",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cod": {
+    "iso3": "cod",
+    "qid": "Q33317",
+    "nombre": "cocama",
+    "hablantes": 250,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q33317",
+      "url": "http://www.wikidata.org/entity/Q33317",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pln": {
+    "iso3": "pln",
+    "qid": "Q36665",
+    "nombre": "criollo palenquero",
+    "hablantes": 2788,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q36665",
+      "url": "http://www.wikidata.org/entity/Q36665",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "spa": {
+    "iso3": "spa",
+    "qid": "Q1321",
+    "nombre": "español",
+    "hablantes": 485000000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q1321",
+      "url": "http://www.wikidata.org/entity/Q1321",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ana": {
+    "iso3": "ana",
+    "qid": "Q2846078",
+    "nombre": "idioma andaquí",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2846078",
+      "url": "http://www.wikidata.org/entity/Q2846078",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ano": {
+    "iso3": "ano",
+    "qid": "Q2669225",
+    "nombre": "idioma andoque",
+    "hablantes": 370,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2669225",
+      "url": "http://www.wikidata.org/entity/Q2669225",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ans": {
+    "iso3": "ans",
+    "qid": "Q3446613",
+    "nombre": "idioma anserma",
+    "hablantes": 100,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3446613",
+      "url": "http://www.wikidata.org/entity/Q3446613",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "arh": {
+    "iso3": "arh",
+    "qid": "Q2640621",
+    "nombre": "idioma arhuaco",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2640621",
+      "url": "http://www.wikidata.org/entity/Q2640621",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "kwi": {
+    "iso3": "kwi",
+    "qid": "Q2603103",
+    "nombre": "idioma awá pit",
+    "hablantes": 12055,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2603103",
+      "url": "http://www.wikidata.org/entity/Q2603103",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "bao": {
+    "iso3": "bao",
+    "qid": "Q2883738",
+    "nombre": "idioma bará",
+    "hablantes": 500,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2883738",
+      "url": "http://www.wikidata.org/entity/Q2883738",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "mot": {
+    "iso3": "mot",
+    "qid": "Q2886281",
+    "nombre": "idioma barí",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2886281",
+      "url": "http://www.wikidata.org/entity/Q2886281",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "kbh": {
+    "iso3": "kbh",
+    "qid": "Q2842667",
+    "nombre": "idioma camsá",
+    "hablantes": 4000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2842667",
+      "url": "http://www.wikidata.org/entity/Q2842667",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cbg": {
+    "iso3": "cbg",
+    "qid": "Q2963680",
+    "nombre": "idioma chimila",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2963680",
+      "url": "http://www.wikidata.org/entity/Q2963680",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "cub": {
+    "iso3": "cub",
+    "qid": "Q3006705",
+    "nombre": "idioma cubeo",
+    "hablantes": 6300,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3006705",
+      "url": "http://www.wikidata.org/entity/Q3006705",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "des": {
+    "iso3": "des",
+    "qid": "Q962392",
+    "nombre": "idioma desano",
+    "hablantes": 6000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q962392",
+      "url": "http://www.wikidata.org/entity/Q962392",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "gum": {
+    "iso3": "gum",
+    "qid": "Q2744745",
+    "nombre": "idioma guambiano",
+    "hablantes": 20782,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2744745",
+      "url": "http://www.wikidata.org/entity/Q2744745",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "jup": {
+    "iso3": "jup",
+    "qid": "Q3143384",
+    "nombre": "idioma judpa",
+    "hablantes": 1700,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3143384",
+      "url": "http://www.wikidata.org/entity/Q3143384",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "kog": {
+    "iso3": "kog",
+    "qid": "Q3198286",
+    "nombre": "idioma kogui",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3198286",
+      "url": "http://www.wikidata.org/entity/Q3198286",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pui": {
+    "iso3": "pui",
+    "qid": "Q3027918",
+    "nombre": "idioma puinave",
+    "hablantes": 3000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3027918",
+      "url": "http://www.wikidata.org/entity/Q3027918",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "guh": {
+    "iso3": "guh",
+    "qid": "Q2669193",
+    "nombre": "idioma sikuani",
+    "hablantes": 23006,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2669193",
+      "url": "http://www.wikidata.org/entity/Q2669193",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tit": {
+    "iso3": "tit",
+    "qid": "Q3029805",
+    "nombre": "idioma tinigua",
+    "hablantes": 1,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3029805",
+      "url": "http://www.wikidata.org/entity/Q3029805",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tue": {
+    "iso3": "tue",
+    "qid": "Q2520538",
+    "nombre": "idioma tuyuca",
+    "hablantes": 570,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2520538",
+      "url": "http://www.wikidata.org/entity/Q2520538",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "guc": {
+    "iso3": "guc",
+    "qid": "Q891085",
+    "nombre": "idioma wayú",
+    "hablantes": 300000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q891085",
+      "url": "http://www.wikidata.org/entity/Q891085",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "noa": {
+    "iso3": "noa",
+    "qid": "Q3111873",
+    "nombre": "idioma wounaan",
+    "hablantes": null,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3111873",
+      "url": "http://www.wikidata.org/entity/Q3111873",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "que": {
+    "iso3": "que",
+    "qid": "Q5218",
+    "nombre": "lenguas quechuas",
+    "hablantes": 8900000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q5218",
+      "url": "http://www.wikidata.org/entity/Q5218",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "hto": {
+    "iso3": "hto",
+    "qid": "Q948514",
+    "nombre": "meneca",
+    "hablantes": 1705,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q948514",
+      "url": "http://www.wikidata.org/entity/Q948514",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "bmr": {
+    "iso3": "bmr",
+    "qid": "Q3027894",
+    "nombre": "muinane",
+    "hablantes": 150,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3027894",
+      "url": "http://www.wikidata.org/entity/Q3027894",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "huu": {
+    "iso3": "huu",
+    "qid": "Q2640935",
+    "nombre": "murui",
+    "hablantes": 2900,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q2640935",
+      "url": "http://www.wikidata.org/entity/Q2640935",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "noj": {
+    "iso3": "noj",
+    "qid": "Q5372139",
+    "nombre": "nonuya",
+    "hablantes": 2,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q5372139",
+      "url": "http://www.wikidata.org/entity/Q5372139",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "pio": {
+    "iso3": "pio",
+    "qid": "Q3382208",
+    "nombre": "piapoco",
+    "hablantes": 6400,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3382208",
+      "url": "http://www.wikidata.org/entity/Q3382208",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "inb": {
+    "iso3": "inb",
+    "qid": "Q35491",
+    "nombre": "quichua inga",
+    "hablantes": 33000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q35491",
+      "url": "http://www.wikidata.org/entity/Q35491",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "rom": {
+    "iso3": "rom",
+    "qid": "Q13201",
+    "nombre": "romaní",
+    "hablantes": 46000000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q13201",
+      "url": "http://www.wikidata.org/entity/Q13201",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "tca": {
+    "iso3": "tca",
+    "qid": "Q1815205",
+    "nombre": "ticuna",
+    "hablantes": 61000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q1815205",
+      "url": "http://www.wikidata.org/entity/Q1815205",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "ycn": {
+    "iso3": "ycn",
+    "qid": "Q3438356",
+    "nombre": "yucuna",
+    "hablantes": 1800,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q3438356",
+      "url": "http://www.wikidata.org/entity/Q3438356",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  },
+  "yrl": {
+    "iso3": "yrl",
+    "qid": "Q34333",
+    "nombre": "ñe'engatú",
+    "hablantes": 8000,
+    "fuente": {
+      "tipo": "wikidata",
+      "qid": "Q34333",
+      "url": "http://www.wikidata.org/entity/Q34333",
+      "licencia": "CC0"
+    },
+    "estado": "propuesto_sin_validar"
+  }
+}

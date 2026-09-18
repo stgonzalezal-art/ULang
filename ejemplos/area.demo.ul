@@ -1,0 +1,12 @@
+# Mismo programa en la lengua demo. Misma IR, otra superficie.
+tarea area(base, alto):
+    dar base * alto
+fin
+
+contador = 0
+mien contador < 3:
+    mostrar("vuelta", contador)
+    contador = contador + 1
+fin
+
+mostrar(area(5, 6))

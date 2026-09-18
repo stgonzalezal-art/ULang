@@ -1,0 +1,11 @@
+{
+  "idioma": "Muisca (chibcha) - reconstruido",
+  "codigo": "chb",
+  "estado": "reconstruido_plantilla",
+  "nota": "PLANTILLA. El muisca esta extinto; solo se usan formas atestiguadas o reconstruidas por investigadores. No inventar terminos. Registrar fuente y marcar si es atestiguado o reconstruido.",
+  "fuentes": [
+    "Fray Bernardo de Lugo, 'Gramatica en la lengua general del Nuevo Reyno, llamada mosca' (1619) - fuente colonial.",
+    "Estudios y reconstrucciones publicados sobre lengua muisca/chibcha (p. ej. trabajos de Maria Stella Gonzalez de Perez) - verificar edicion."
+  ],
+  "palabras": {}
+}

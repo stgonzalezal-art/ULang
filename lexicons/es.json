@@ -1,0 +1,27 @@
+{
+  "idioma": "Espanol",
+  "codigo": "spa",
+  "estado": "validado",
+  "nota": "Lexicon de referencia. Las palabras clave son traduccion funcional directa del ingles usado por el lenguaje.",
+  "fuentes": [
+    "Uso comun del espanol; sin terminologia especializada."
+  ],
+  "palabras": {
+    "funcion": "FUNC",
+    "devolver": "RETURN",
+    "imprimir": "PRINT",
+    "si": "IF",
+    "sino": "ELSE",
+    "mientras": "WHILE",
+    "verdadero": "TRUE",
+    "falso": "FALSE",
+    "y": "AND",
+    "o": "OR",
+    "no": "NOT",
+    "fin": "END"
+  },
+  "pendiente": {
+    "nota": "Conceptos aun sin forma acordada: asignacion de tipo, importar/modulo, clase, excepcion.",
+    "candidatos": ["clase", "importar", "lanzar", "capturar"]
+  }
+}

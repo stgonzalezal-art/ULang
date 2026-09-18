@@ -1,0 +1,14 @@
+{
+  "idioma": "cocama",
+  "iso3": "cod",
+  "estado": "propuesto_sin_validar",
+  "nota": "PLANTILLA VACIA. Las palabras clave deben provenir de literatura publicada o de hablantes; nunca inventarse. Al validar, cambiar 'estado' a 'validado' y anadir las referencias.",
+  "fuente_metadatos": {
+    "tipo": "wikidata",
+    "qid": "Q33317",
+    "url": "http://www.wikidata.org/entity/Q33317",
+    "licencia": "CC0"
+  },
+  "referencias": [],
+  "palabras": {}
+}

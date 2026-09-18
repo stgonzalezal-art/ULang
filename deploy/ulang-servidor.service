@@ -1,0 +1,17 @@
+[Unit]
+Description=ULang - servidor HTTP (API de integracion multilingue)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ulang
+WorkingDirectory=/opt/ulang
+Environment=PORT=8080
+ExecStart=/opt/ulang/venv/bin/python /opt/ulang/servidor.py
+Restart=always
+RestartSec=5
+NoNewPrivileges=true
+
+[Install]
+WantedBy=multi-user.target

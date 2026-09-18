@@ -1,0 +1,21 @@
+# Programa escrito en espanol. La IR es identica al ejemplo en otra lengua.
+funcion area(base, alto):
+    devolver base * alto
+fin
+
+funcion es_mayor(a, b):
+    si a > b:
+        devolver verdadero
+    sino:
+        devolver falso
+    fin
+fin
+
+contador = 0
+mientras contador < 3:
+    imprimir("iteracion", contador)
+    contador = contador + 1
+fin
+
+imprimir(area(3, 4))
+imprimir(es_mayor(5, 2))

@@ -1,0 +1,29 @@
+name: pruebas
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  ejemplos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Dependencias
+        run: pip install -r requirements.txt
+      - name: Ejemplos en espanol
+        run: python ulang.py ejemplos/area.es.ul -l es --solo-generar
+      - name: Traduccion IR -> otra lengua (demo)
+        run: python ulang.py ejemplos/area.es.ul -l es --traducir demo
+      - name: Verificar que no inventa terminos (wayuunaiki debe fallar)
+        run: |
+          if python ulang.py ejemplos/area.es.ul -l es --traducir wayuunaiki; then
+            echo "FALLO: no deberia traducir sin lexicon validado"; exit 1
+          else
+            echo "OK: bloqueo correcto"
+          fi

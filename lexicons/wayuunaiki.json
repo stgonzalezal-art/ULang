@@ -1,0 +1,11 @@
+{
+  "idioma": "Wayuunaiki",
+  "codigo": "guc",
+  "estado": "plantilla_por_completar",
+  "nota": "PLANTILLA. No se ha inventado ningun termino. Cada palabra debe tomarse de literatura publicada (gramaticas/diccionarios) o de un hablante, y registrarse con su fuente y estado. Mientras no haya forma acordada, dejar el campo fuera: el parser marcara el error.",
+  "fuentes": [
+    "Literatura publicada de wayuunaiki (gramaticas y diccionarios) - verificar edicion y licencia antes de incorporar terminos.",
+    "Consulta con hablantes/educadores wayuu para validacion (Ley 1381 de 2010, principio de concertacion)."
+  ],
+  "palabras": {}
+}

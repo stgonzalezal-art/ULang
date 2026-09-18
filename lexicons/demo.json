@@ -1,0 +1,23 @@
+{
+  "idioma": "Demo (conlang de prueba)",
+  "codigo": "demo",
+  "estado": "inventado_para_pruebas",
+  "nota": "Lengua artificial solo para demostrar que la superficie es sustituible sin tocar la IR. NO es una lengua real ni representa a ningun pueblo.",
+  "fuentes": [
+    "Inventada para el prototipo ULang."
+  ],
+  "palabras": {
+    "tarea": "FUNC",
+    "dar": "RETURN",
+    "mostrar": "PRINT",
+    "kana": "IF",
+    "taka": "ELSE",
+    "mien": "WHILE",
+    "siem": "TRUE",
+    "nuem": "FALSE",
+    "et": "AND",
+    "ot": "OR",
+    "ne": "NOT",
+    "fin": "END"
+  }
+}

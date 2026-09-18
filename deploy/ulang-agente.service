@@ -1,0 +1,12 @@
+[Unit]
+Description=ULang - agente nocturno (IA en lotes acotados)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=ulang
+WorkingDirectory=/opt/ulang
+EnvironmentFile=-/opt/ulang/.env
+ExecStart=/opt/ulang/venv/bin/python /opt/ulang/agente_nocturno.py --max-lenguas 3 --presupuesto-min 30
+Nice=10

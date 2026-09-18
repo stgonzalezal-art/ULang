@@ -1,0 +1,14 @@
+{
+  "idioma": "idioma chimila",
+  "iso3": "cbg",
+  "estado": "propuesto_sin_validar",
+  "nota": "PLANTILLA VACIA. Las palabras clave deben provenir de literatura publicada o de hablantes; nunca inventarse. Al validar, cambiar 'estado' a 'validado' y anadir las referencias.",
+  "fuente_metadatos": {
+    "tipo": "wikidata",
+    "qid": "Q2963680",
+    "url": "http://www.wikidata.org/entity/Q2963680",
+    "licencia": "CC0"
+  },
+  "referencias": [],
+  "palabras": {}
+}

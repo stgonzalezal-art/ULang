@@ -1,0 +1,52 @@
+{
+  "idioma": "achagua",
+  "iso3": "aca",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q2822982",
+      "url": "http://www.wikidata.org/entity/Q2822982",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Achagua",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/aca"
+      }
+    },
+    "glottolog": {
+      "glottocode": "acha1250",
+      "nombre": "Achagua",
+      "macroarea": "South America",
+      "familia": "Arawakan",
+      "lat": "4.38649",
+      "lon": "-72.2005",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/acha1250"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "idioma": "idioma wounaan",
+  "iso3": "noa",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q3111873",
+      "url": "http://www.wikidata.org/entity/Q3111873",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Woun Meu",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/noa"
+      }
+    },
+    "glottolog": {
+      "glottocode": "woun1238",
+      "nombre": "Woun Meu",
+      "macroarea": "South America",
+      "familia": "Chocoan",
+      "lat": "8.5",
+      "lon": "-78.0",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/woun1238"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

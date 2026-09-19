@@ -1,0 +1,52 @@
+{
+  "idioma": "Idioma cofán",
+  "iso3": "con",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q2669254",
+      "url": "http://www.wikidata.org/entity/Q2669254",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Cofán",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/con"
+      }
+    },
+    "glottolog": {
+      "glottocode": "cofa1242",
+      "nombre": "Cofán",
+      "macroarea": "South America",
+      "familia": "",
+      "lat": "0.276675",
+      "lon": "-77.0643",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/cofa1242"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

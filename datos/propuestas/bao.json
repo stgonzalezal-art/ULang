@@ -1,0 +1,52 @@
+{
+  "idioma": "idioma bará",
+  "iso3": "bao",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q2883738",
+      "url": "http://www.wikidata.org/entity/Q2883738",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Waimaha",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/bao"
+      }
+    },
+    "glottolog": {
+      "glottocode": "waim1255",
+      "nombre": "Waimaha",
+      "macroarea": "South America",
+      "familia": "Tucanoan",
+      "lat": "0.30416",
+      "lon": "-70.1644",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/waim1255"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

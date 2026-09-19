@@ -1,0 +1,52 @@
+{
+  "idioma": "Macaguán",
+  "iso3": "mbn",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q3273980",
+      "url": "http://www.wikidata.org/entity/Q3273980",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Macaguán",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/mbn"
+      }
+    },
+    "glottolog": {
+      "glottocode": "maca1259",
+      "nombre": "Hitnu",
+      "macroarea": "South America",
+      "familia": "Guahiboan",
+      "lat": "6.34582",
+      "lon": "-71.2671",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/maca1259"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

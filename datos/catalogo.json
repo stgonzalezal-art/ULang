@@ -10,7 +10,38 @@
       "url": "http://www.wikidata.org/entity/Q25559604",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q25559604",
+        "url": "http://www.wikidata.org/entity/Q25559604",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Angosturas Tunebo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tnd"
+        }
+      },
+      "glottolog": {
+        "glottocode": "ango1257",
+        "nombre": "Angosturas Tunebo",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "6.54198",
+        "lon": "-71.9212",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/ango1257"
+        }
+      }
+    }
   },
   "aoh": {
     "iso3": "aoh",
@@ -23,7 +54,28 @@
       "url": "http://www.wikidata.org/entity/Q3507971",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3507971",
+        "url": "http://www.wikidata.org/entity/Q3507971",
+        "licencia": "CC0"
+      },
+      "glottolog": {
+        "glottocode": "arma1244",
+        "nombre": "Arma",
+        "macroarea": "South America",
+        "familia": "Unattested",
+        "lat": "2.03332",
+        "lon": "-76.0",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/arma1244"
+        }
+      }
+    }
   },
   "bsn": {
     "iso3": "bsn",
@@ -36,7 +88,38 @@
       "url": "http://www.wikidata.org/entity/Q2883843",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2883843",
+        "url": "http://www.wikidata.org/entity/Q2883843",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Barasana-Eduria",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/bsn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "bara1380",
+        "nombre": "Barasana-Eduria",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.02193",
+        "lon": "-70.808",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/bara1380"
+        }
+      }
+    }
   },
   "tbn": {
     "iso3": "tbn",
@@ -49,7 +132,38 @@
       "url": "http://www.wikidata.org/entity/Q12953943",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q12953943",
+        "url": "http://www.wikidata.org/entity/Q12953943",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Barro Negro Tunebo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tbn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "barr1251",
+        "nombre": "Barro Negro Tunebo",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "6.12622",
+        "lon": "-72.044",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/barr1251"
+        }
+      }
+    }
   },
   "bdc": {
     "iso3": "bdc",
@@ -62,7 +176,38 @@
       "url": "http://www.wikidata.org/entity/Q11173166",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q11173166",
+        "url": "http://www.wikidata.org/entity/Q11173166",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Emberá-Baudó",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/bdc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "embe1259",
+        "nombre": "Emberá-Baudó",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "5.2824",
+        "lon": "-76.32548",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/embe1259"
+        }
+      }
+    }
   },
   "kvn": {
     "iso3": "kvn",
@@ -75,7 +220,38 @@
       "url": "http://www.wikidata.org/entity/Q31777873",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q31777873",
+        "url": "http://www.wikidata.org/entity/Q31777873",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Border Kuna",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/kvn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "bord1248",
+        "nombre": "Border Kuna",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "7.92993",
+        "lon": "-77.1664",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/bord1248"
+        }
+      }
+    }
   },
   "crf": {
     "iso3": "crf",
@@ -88,7 +264,38 @@
       "url": "http://www.wikidata.org/entity/Q3504195",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3504195",
+        "url": "http://www.wikidata.org/entity/Q3504195",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Caramanta",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/crf"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cara1271",
+        "nombre": "Caramanta",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "5.624",
+        "lon": "-75.877",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cara1271"
+        }
+      }
+    }
   },
   "cbc": {
     "iso3": "cbc",
@@ -101,7 +308,38 @@
       "url": "http://www.wikidata.org/entity/Q924405",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q924405",
+        "url": "http://www.wikidata.org/entity/Q924405",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Carapana",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cbc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cara1272",
+        "nombre": "Carapana",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.06168",
+        "lon": "-69.6465",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cara1272"
+        }
+      }
+    }
   },
   "cto": {
     "iso3": "cto",
@@ -114,7 +352,38 @@
       "url": "http://www.wikidata.org/entity/Q3052039",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3052039",
+        "url": "http://www.wikidata.org/entity/Q3052039",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Emberá-Catío",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cto"
+        }
+      },
+      "glottolog": {
+        "glottocode": "embe1260",
+        "nombre": "Emberá-Catío",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "7.52721",
+        "lon": "-76.7476",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/embe1260"
+        }
+      }
+    }
   },
   "cca": {
     "iso3": "cca",
@@ -127,7 +396,28 @@
       "url": "http://www.wikidata.org/entity/Q5054242",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q5054242",
+        "url": "http://www.wikidata.org/entity/Q5054242",
+        "licencia": "CC0"
+      },
+      "glottolog": {
+        "glottocode": "cauc1241",
+        "nombre": "Cauca",
+        "macroarea": "South America",
+        "familia": "Bookkeeping",
+        "lat": "2.09246",
+        "lon": "-75.87725",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cauc1241"
+        }
+      }
+    }
   },
   "tuf": {
     "iso3": "tuf",
@@ -140,7 +430,38 @@
       "url": "http://www.wikidata.org/entity/Q12953942",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q12953942",
+        "url": "http://www.wikidata.org/entity/Q12953942",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Central Tunebo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tuf"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cent2150",
+        "nombre": "Central Tunebo",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "6.8867",
+        "lon": "-72.097",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cent2150"
+        }
+      }
+    }
   },
   "cmi": {
     "iso3": "cmi",
@@ -153,7 +474,38 @@
       "url": "http://www.wikidata.org/entity/Q3052042",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3052042",
+        "url": "http://www.wikidata.org/entity/Q3052042",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Emberá-Chamí",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cmi"
+        }
+      },
+      "glottolog": {
+        "glottocode": "embe1262",
+        "nombre": "Emberá-Chamí",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "4.8791",
+        "lon": "-76.0749",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/embe1262"
+        }
+      }
+    }
   },
   "coe": {
     "iso3": "coe",
@@ -166,7 +518,38 @@
       "url": "http://www.wikidata.org/entity/Q3198924",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3198924",
+        "url": "http://www.wikidata.org/entity/Q3198924",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Koreguaje",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/coe"
+        }
+      },
+      "glottolog": {
+        "glottocode": "kore1283",
+        "nombre": "Koreguaje",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.92316",
+        "lon": "-75.3475",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/kore1283"
+        }
+      }
+    }
   },
   "icr": {
     "iso3": "icr",
@@ -179,7 +562,38 @@
       "url": "http://www.wikidata.org/entity/Q2044587",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2044587",
+        "url": "http://www.wikidata.org/entity/Q2044587",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Islander Creole English",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/icr"
+        }
+      },
+      "glottolog": {
+        "glottocode": "sana1297",
+        "nombre": "San Andres Creole English",
+        "macroarea": "North America",
+        "familia": "Indo-European",
+        "lat": "12.55352",
+        "lon": "-81.70425",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/sana1297"
+        }
+      }
+    }
   },
   "cui": {
     "iso3": "cui",
@@ -192,7 +606,38 @@
       "url": "http://www.wikidata.org/entity/Q2980421",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2980421",
+        "url": "http://www.wikidata.org/entity/Q2980421",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cuiba",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cui"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cuib1242",
+        "nombre": "Cuiba",
+        "macroarea": "South America",
+        "familia": "Guahiboan",
+        "lat": "6.19829",
+        "lon": "-69.8197",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cuib1242"
+        }
+      }
+    }
   },
   "mbp": {
     "iso3": "mbp",
@@ -205,7 +650,38 @@
       "url": "http://www.wikidata.org/entity/Q3012604",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3012604",
+        "url": "http://www.wikidata.org/entity/Q3012604",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Malayo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/mbp"
+        }
+      },
+      "glottolog": {
+        "glottocode": "mala1522",
+        "nombre": "Malayo",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "10.9286",
+        "lon": "-73.4056",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/mala1522"
+        }
+      }
+    }
   },
   "tdc": {
     "iso3": "tdc",
@@ -218,7 +694,38 @@
       "url": "http://www.wikidata.org/entity/Q3052041",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3052041",
+        "url": "http://www.wikidata.org/entity/Q3052041",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Emberá-Tadó",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tdc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "embe1261",
+        "nombre": "Emberá-Tadó",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "5.23658",
+        "lon": "-77.1533",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/embe1261"
+        }
+      }
+    }
   },
   "sja": {
     "iso3": "sja",
@@ -231,7 +738,38 @@
       "url": "http://www.wikidata.org/entity/Q3055682",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3055682",
+        "url": "http://www.wikidata.org/entity/Q3055682",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Epena",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/sja"
+        }
+      },
+      "glottolog": {
+        "glottocode": "epen1239",
+        "nombre": "Epena",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "4.25877",
+        "lon": "-77.3566",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/epen1239"
+        }
+      }
+    }
   },
   "guo": {
     "iso3": "guo",
@@ -244,7 +782,38 @@
       "url": "http://www.wikidata.org/entity/Q2980375",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2980375",
+        "url": "http://www.wikidata.org/entity/Q2980375",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Guayabero",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/guo"
+        }
+      },
+      "glottolog": {
+        "glottocode": "guay1257",
+        "nombre": "Guayabero",
+        "macroarea": "South America",
+        "familia": "Guahiboan",
+        "lat": "2.8969",
+        "lon": "-71.844",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/guay1257"
+        }
+      }
+    }
   },
   "cbb": {
     "iso3": "cbb",
@@ -257,7 +826,38 @@
       "url": "http://www.wikidata.org/entity/Q3450660",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3450660",
+        "url": "http://www.wikidata.org/entity/Q3450660",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cabiyarí",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cbb"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cabi1241",
+        "nombre": "Cabiyarí",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "0.16101",
+        "lon": "-71.0622",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cabi1241"
+        }
+      }
+    }
   },
   "cby": {
     "iso3": "cby",
@@ -270,7 +870,38 @@
       "url": "http://www.wikidata.org/entity/Q3441762",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3441762",
+        "url": "http://www.wikidata.org/entity/Q3441762",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Carabayo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cby"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cara1245",
+        "nombre": "Carabayo",
+        "macroarea": "South America",
+        "familia": "Unclassifiable",
+        "lat": "-1.7922",
+        "lon": "-69.9099",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cara1245"
+        }
+      }
+    }
   },
   "cbd": {
     "iso3": "cbd",
@@ -283,7 +914,38 @@
       "url": "http://www.wikidata.org/entity/Q3446655",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3446655",
+        "url": "http://www.wikidata.org/entity/Q3446655",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Carijona",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cbd"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cari1279",
+        "nombre": "Carijona",
+        "macroarea": "South America",
+        "familia": "Cariban",
+        "lat": "1.21894",
+        "lon": "-72.0664",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cari1279"
+        }
+      }
+    }
   },
   "con": {
     "iso3": "con",
@@ -296,7 +958,38 @@
       "url": "http://www.wikidata.org/entity/Q2669254",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2669254",
+        "url": "http://www.wikidata.org/entity/Q2669254",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cofán",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/con"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cofa1242",
+        "nombre": "Cofán",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "0.276675",
+        "lon": "-77.0643",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cofa1242"
+        }
+      }
+    }
   },
   "gvc": {
     "iso3": "gvc",
@@ -309,7 +1002,38 @@
       "url": "http://www.wikidata.org/entity/Q3566001",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3566001",
+        "url": "http://www.wikidata.org/entity/Q3566001",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Guanano",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/gvc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "guan1269",
+        "nombre": "Kotiria",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "1.07554",
+        "lon": "-69.5705",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/guan1269"
+        }
+      }
+    }
   },
   "cbv": {
     "iso3": "cbv",
@@ -322,7 +1046,38 @@
       "url": "http://www.wikidata.org/entity/Q3192052",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3192052",
+        "url": "http://www.wikidata.org/entity/Q3192052",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cacua",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cbv"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cacu1241",
+        "nombre": "Kakua",
+        "macroarea": "South America",
+        "familia": "Kakua-Nukak",
+        "lat": "0.88778",
+        "lon": "-69.5659",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cacu1241"
+        }
+      }
+    }
   },
   "mbr": {
     "iso3": "mbr",
@@ -335,7 +1090,38 @@
       "url": "http://www.wikidata.org/entity/Q3346228",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3346228",
+        "url": "http://www.wikidata.org/entity/Q3346228",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Nukak Makú",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/mbr"
+        }
+      },
+      "glottolog": {
+        "glottocode": "nuka1242",
+        "nombre": "Nukak Makú",
+        "macroarea": "South America",
+        "familia": "Kakua-Nukak",
+        "lat": "2.65939",
+        "lon": "-71.4629",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/nuka1242"
+        }
+      }
+    }
   },
   "pbb": {
     "iso3": "pbb",
@@ -348,7 +1134,38 @@
       "url": "http://www.wikidata.org/entity/Q33677",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q33677",
+        "url": "http://www.wikidata.org/entity/Q33677",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Páez",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pbb"
+        }
+      },
+      "glottolog": {
+        "glottocode": "paez1247",
+        "nombre": "Páez",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "2.61516",
+        "lon": "-76.31254",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/paez1247"
+        }
+      }
+    }
   },
   "pij": {
     "iso3": "pij",
@@ -361,7 +1178,38 @@
       "url": "http://www.wikidata.org/entity/Q7193519",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q7193519",
+        "url": "http://www.wikidata.org/entity/Q7193519",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Pijao",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pij"
+        }
+      },
+      "glottolog": {
+        "glottocode": "pija1235",
+        "nombre": "Pijao",
+        "macroarea": "South America",
+        "familia": "Unclassifiable",
+        "lat": "0.49999",
+        "lon": "-75.3333",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/pija1235"
+        }
+      }
+    }
   },
   "ttk": {
     "iso3": "ttk",
@@ -374,7 +1222,38 @@
       "url": "http://www.wikidata.org/entity/Q3532756",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3532756",
+        "url": "http://www.wikidata.org/entity/Q3532756",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Totoro",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ttk"
+        }
+      },
+      "glottolog": {
+        "glottocode": "toto1306",
+        "nombre": "Totoro",
+        "macroarea": "South America",
+        "familia": "Barbacoan",
+        "lat": "2.55149",
+        "lon": "-76.6379",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/toto1306"
+        }
+      }
+    }
   },
   "tuo": {
     "iso3": "tuo",
@@ -387,7 +1266,38 @@
       "url": "http://www.wikidata.org/entity/Q3541834",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3541834",
+        "url": "http://www.wikidata.org/entity/Q3541834",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Tucano",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tuo"
+        }
+      },
+      "glottolog": {
+        "glottocode": "tuca1252",
+        "nombre": "Tucano",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.579755",
+        "lon": "-69.5763",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/tuca1252"
+        }
+      }
+    }
   },
   "yup": {
     "iso3": "yup",
@@ -400,7 +1310,38 @@
       "url": "http://www.wikidata.org/entity/Q3441447",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3441447",
+        "url": "http://www.wikidata.org/entity/Q3441447",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Yukpa",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/yup"
+        }
+      },
+      "glottolog": {
+        "glottocode": "yukp1241",
+        "nombre": "Yukpa",
+        "macroarea": "South America",
+        "familia": "Cariban",
+        "lat": "9.67534",
+        "lon": "-73.0557",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/yukp1241"
+        }
+      }
+    }
   },
   "yui": {
     "iso3": "yui",
@@ -413,7 +1354,38 @@
       "url": "http://www.wikidata.org/entity/Q3573266",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3573266",
+        "url": "http://www.wikidata.org/entity/Q3573266",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Yurutí",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/yui"
+        }
+      },
+      "glottolog": {
+        "glottocode": "yuru1263",
+        "nombre": "Yurutí",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.735585",
+        "lon": "-69.6955",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/yuru1263"
+        }
+      }
+    }
   },
   "inj": {
     "iso3": "inj",
@@ -426,7 +1398,38 @@
       "url": "http://www.wikidata.org/entity/Q16115012",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q16115012",
+        "url": "http://www.wikidata.org/entity/Q16115012",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Jungle Inga",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/inj"
+        }
+      },
+      "glottolog": {
+        "glottocode": "jung1240",
+        "nombre": "San Andrés-Lowland Inga",
+        "macroarea": "South America",
+        "familia": "Quechuan",
+        "lat": "0.88872",
+        "lon": "-76.6593",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/jung1240"
+        }
+      }
+    }
   },
   "kpc": {
     "iso3": "kpc",
@@ -439,7 +1442,38 @@
       "url": "http://www.wikidata.org/entity/Q2882543",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2882543",
+        "url": "http://www.wikidata.org/entity/Q2882543",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Curripaco",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/kpc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "curr1243",
+        "nombre": "Curripaco",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "0.69618",
+        "lon": "-67.5028",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/curr1243"
+        }
+      }
+    }
   },
   "csn": {
     "iso3": "csn",
@@ -452,7 +1486,38 @@
       "url": "http://www.wikidata.org/entity/Q2748229",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2748229",
+        "url": "http://www.wikidata.org/entity/Q2748229",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Colombian Sign Language",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/csn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "colo1249",
+        "nombre": "Colombian Sign Language",
+        "macroarea": "South America",
+        "familia": "Sign Language",
+        "lat": "5.33532",
+        "lon": "-75.4464",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/colo1249"
+        }
+      }
+    }
   },
   "prz": {
     "iso3": "prz",
@@ -465,7 +1530,38 @@
       "url": "http://www.wikidata.org/entity/Q3322084",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3322084",
+        "url": "http://www.wikidata.org/entity/Q3322084",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Providencia Sign Language",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/prz"
+        }
+      },
+      "glottolog": {
+        "glottocode": "prov1243",
+        "nombre": "Providencia Sign Language",
+        "macroarea": "North America",
+        "familia": "Sign Language",
+        "lat": "13.348416",
+        "lon": "-81.373888",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/prov1243"
+        }
+      }
+    }
   },
   "mcl": {
     "iso3": "mcl",
@@ -478,7 +1574,38 @@
       "url": "http://www.wikidata.org/entity/Q6722435",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q6722435",
+        "url": "http://www.wikidata.org/entity/Q6722435",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Macaguaje",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/mcl"
+        }
+      },
+      "glottolog": {
+        "glottocode": "maca1261",
+        "nombre": "Macaguaje",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.49999",
+        "lon": "-75.8333",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/maca1261"
+        }
+      }
+    }
   },
   "mbn": {
     "iso3": "mbn",
@@ -491,7 +1618,38 @@
       "url": "http://www.wikidata.org/entity/Q3273980",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3273980",
+        "url": "http://www.wikidata.org/entity/Q3273980",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Macaguán",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/mbn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "maca1259",
+        "nombre": "Hitnu",
+        "macroarea": "South America",
+        "familia": "Guahiboan",
+        "lat": "6.34582",
+        "lon": "-71.2671",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/maca1259"
+        }
+      }
+    }
   },
   "myy": {
     "iso3": "myy",
@@ -504,7 +1662,38 @@
       "url": "http://www.wikidata.org/entity/Q3275059",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3275059",
+        "url": "http://www.wikidata.org/entity/Q3275059",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Macuna",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/myy"
+        }
+      },
+      "glottolog": {
+        "glottocode": "macu1260",
+        "nombre": "Macuna",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "-0.14459",
+        "lon": "-70.0749",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/macu1260"
+        }
+      }
+    }
   },
   "emp": {
     "iso3": "emp",
@@ -517,7 +1706,38 @@
       "url": "http://www.wikidata.org/entity/Q2391297",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2391297",
+        "url": "http://www.wikidata.org/entity/Q2391297",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Northern Emberá",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/emp"
+        }
+      },
+      "glottolog": {
+        "glottocode": "nort2972",
+        "nombre": "Northern Emberá",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "7.12761",
+        "lon": "-77.574",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/nort2972"
+        }
+      }
+    }
   },
   "oca": {
     "iso3": "oca",
@@ -530,7 +1750,38 @@
       "url": "http://www.wikidata.org/entity/Q3182577",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3182577",
+        "url": "http://www.wikidata.org/entity/Q3182577",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Ocaina",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/oca"
+        }
+      },
+      "glottolog": {
+        "glottocode": "ocai1244",
+        "nombre": "Ocaina",
+        "macroarea": "South America",
+        "familia": "Huitotoan",
+        "lat": "-2.159",
+        "lon": "-72.1422",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/ocai1244"
+        }
+      }
+    }
   },
   "pid": {
     "iso3": "pid",
@@ -543,7 +1794,38 @@
       "url": "http://www.wikidata.org/entity/Q3382207",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3382207",
+        "url": "http://www.wikidata.org/entity/Q3382207",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Piaroa",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pid"
+        }
+      },
+      "glottolog": {
+        "glottocode": "piar1243",
+        "nombre": "Piaroa",
+        "macroarea": "South America",
+        "familia": "Saliban",
+        "lat": "4.41805",
+        "lon": "-67.7574",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/piar1243"
+        }
+      }
+    }
   },
   "pir": {
     "iso3": "pir",
@@ -556,7 +1838,38 @@
       "url": "http://www.wikidata.org/entity/Q3389119",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3389119",
+        "url": "http://www.wikidata.org/entity/Q3389119",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Piratapuyo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pir"
+        }
+      },
+      "glottolog": {
+        "glottocode": "pira1254",
+        "nombre": "Wa'ikhana",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.50714",
+        "lon": "-69.5032",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/pira1254"
+        }
+      }
+    }
   },
   "gob": {
     "iso3": "gob",
@@ -569,7 +1882,38 @@
       "url": "http://www.wikidata.org/entity/Q3027923",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3027923",
+        "url": "http://www.wikidata.org/entity/Q3027923",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Playero",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/gob"
+        }
+      },
+      "glottolog": {
+        "glottocode": "play1240",
+        "nombre": "Playero",
+        "macroarea": "South America",
+        "familia": "Guahiboan",
+        "lat": "6.90948",
+        "lon": "-71.0036",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/play1240"
+        }
+      }
+    }
   },
   "rmy": {
     "iso3": "rmy",
@@ -582,7 +1926,38 @@
       "url": "http://www.wikidata.org/entity/Q2669199",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2669199",
+        "url": "http://www.wikidata.org/entity/Q2669199",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Vlax Romani",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/rmy"
+        }
+      },
+      "glottolog": {
+        "glottocode": "vlax1238",
+        "nombre": "Vlax Romani",
+        "macroarea": "Eurasia",
+        "familia": "Indo-European",
+        "lat": "46.09",
+        "lon": "18.16",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/vlax1238"
+        }
+      }
+    }
   },
   "slc": {
     "iso3": "slc",
@@ -595,7 +1970,38 @@
       "url": "http://www.wikidata.org/entity/Q3441097",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3441097",
+        "url": "http://www.wikidata.org/entity/Q3441097",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Sáliba",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/slc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "sali1298",
+        "nombre": "Sáliba",
+        "macroarea": "South America",
+        "familia": "Saliban",
+        "lat": "5.30115",
+        "lon": "-69.3843",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/sali1298"
+        }
+      }
+    }
   },
   "snn": {
     "iso3": "snn",
@@ -608,7 +2014,38 @@
       "url": "http://www.wikidata.org/entity/Q3485116",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3485116",
+        "url": "http://www.wikidata.org/entity/Q3485116",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Siona",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/snn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "sion1247",
+        "nombre": "Siona-Tetete",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.31733",
+        "lon": "-76.0237",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/sion1247"
+        }
+      }
+    }
   },
   "sri": {
     "iso3": "sri",
@@ -621,7 +2058,38 @@
       "url": "http://www.wikidata.org/entity/Q3485264",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3485264",
+        "url": "http://www.wikidata.org/entity/Q3485264",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Siriano",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/sri"
+        }
+      },
+      "glottolog": {
+        "glottocode": "siri1274",
+        "nombre": "Siriano",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.436515",
+        "lon": "-70.184",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/siri1274"
+        }
+      }
+    }
   },
   "ten": {
     "iso3": "ten",
@@ -634,7 +2102,38 @@
       "url": "http://www.wikidata.org/entity/Q3832969",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3832969",
+        "url": "http://www.wikidata.org/entity/Q3832969",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Tama (Colombia)",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ten"
+        }
+      },
+      "glottolog": {
+        "glottocode": "tama1340",
+        "nombre": "Tama (Colombia)",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "1.03332",
+        "lon": "-75.25",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/tama1340"
+        }
+      }
+    }
   },
   "tnc": {
     "iso3": "tnc",
@@ -647,7 +2146,38 @@
       "url": "http://www.wikidata.org/entity/Q36535",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q36535",
+        "url": "http://www.wikidata.org/entity/Q36535",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Tanimuca-Retuarã",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tnc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "tani1257",
+        "nombre": "Tanimuca-Retuarã",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "-0.59023",
+        "lon": "-70.3853",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/tani1257"
+        }
+      }
+    }
   },
   "tav": {
     "iso3": "tav",
@@ -660,7 +2190,38 @@
       "url": "http://www.wikidata.org/entity/Q2524007",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2524007",
+        "url": "http://www.wikidata.org/entity/Q2524007",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Tatuyo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tav"
+        }
+      },
+      "glottolog": {
+        "glottocode": "tatu1247",
+        "nombre": "Tatuyo",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.55582",
+        "lon": "-70.5327",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/tatu1247"
+        }
+      }
+    }
   },
   "tnb": {
     "iso3": "tnb",
@@ -673,7 +2234,38 @@
       "url": "http://www.wikidata.org/entity/Q57660014",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q57660014",
+        "url": "http://www.wikidata.org/entity/Q57660014",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Western Tunebo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tnb"
+        }
+      },
+      "glottolog": {
+        "glottocode": "west2651",
+        "nombre": "Western Tunebo",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "6.90704",
+        "lon": "-72.6507",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/west2651"
+        }
+      }
+    }
   },
   "ynu": {
     "iso3": "ynu",
@@ -686,7 +2278,38 @@
       "url": "http://www.wikidata.org/entity/Q8050347",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q8050347",
+        "url": "http://www.wikidata.org/entity/Q8050347",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Yahuna",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ynu"
+        }
+      },
+      "glottolog": {
+        "glottocode": "yahu1241",
+        "nombre": "Yahuna",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "-0.505365",
+        "lon": "-70.478211",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/yahu1241"
+        }
+      }
+    }
   },
   "aca": {
     "iso3": "aca",
@@ -699,7 +2322,38 @@
       "url": "http://www.wikidata.org/entity/Q2822982",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2822982",
+        "url": "http://www.wikidata.org/entity/Q2822982",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Achagua",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/aca"
+        }
+      },
+      "glottolog": {
+        "glottocode": "acha1250",
+        "nombre": "Achagua",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "4.38649",
+        "lon": "-72.2005",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/acha1250"
+        }
+      }
+    }
   },
   "bwi": {
     "iso3": "bwi",
@@ -712,7 +2366,38 @@
       "url": "http://www.wikidata.org/entity/Q3501735",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3501735",
+        "url": "http://www.wikidata.org/entity/Q3501735",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Baniwa",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/bwi"
+        }
+      },
+      "glottolog": {
+        "glottocode": "bani1255",
+        "nombre": "Baniwa do Icana",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "2.17859",
+        "lon": "-67.7704",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/bani1255"
+        }
+      }
+    }
   },
   "boa": {
     "iso3": "boa",
@@ -725,7 +2410,38 @@
       "url": "http://www.wikidata.org/entity/Q2375468",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2375468",
+        "url": "http://www.wikidata.org/entity/Q2375468",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Bora",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/boa"
+        }
+      },
+      "glottolog": {
+        "glottocode": "bora1263",
+        "nombre": "Bora",
+        "macroarea": "South America",
+        "familia": "Boran",
+        "lat": "-2.000259",
+        "lon": "-72.257066",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/bora1263"
+        }
+      }
+    }
   },
   "cod": {
     "iso3": "cod",
@@ -738,7 +2454,38 @@
       "url": "http://www.wikidata.org/entity/Q33317",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q33317",
+        "url": "http://www.wikidata.org/entity/Q33317",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cocama-Cocamilla",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cod"
+        }
+      },
+      "glottolog": {
+        "glottocode": "coca1259",
+        "nombre": "Cocama-Cocamilla",
+        "macroarea": "South America",
+        "familia": "Tupian",
+        "lat": "-4.5",
+        "lon": "-74.0",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/coca1259"
+        }
+      }
+    }
   },
   "pln": {
     "iso3": "pln",
@@ -751,7 +2498,38 @@
       "url": "http://www.wikidata.org/entity/Q36665",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q36665",
+        "url": "http://www.wikidata.org/entity/Q36665",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Palenquero",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pln"
+        }
+      },
+      "glottolog": {
+        "glottocode": "pale1260",
+        "nombre": "Palenquero",
+        "macroarea": "South America",
+        "familia": "Indo-European",
+        "lat": "10.3881",
+        "lon": "-75.2949",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/pale1260"
+        }
+      }
+    }
   },
   "spa": {
     "iso3": "spa",
@@ -764,7 +2542,38 @@
       "url": "http://www.wikidata.org/entity/Q1321",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q1321",
+        "url": "http://www.wikidata.org/entity/Q1321",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Spanish",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/spa"
+        }
+      },
+      "glottolog": {
+        "glottocode": "stan1288",
+        "nombre": "Spanish",
+        "macroarea": "Eurasia",
+        "familia": "Indo-European",
+        "lat": "40.4414",
+        "lon": "-1.11788",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/stan1288"
+        }
+      }
+    }
   },
   "ana": {
     "iso3": "ana",
@@ -777,7 +2586,38 @@
       "url": "http://www.wikidata.org/entity/Q2846078",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2846078",
+        "url": "http://www.wikidata.org/entity/Q2846078",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Andaqui",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ana"
+        }
+      },
+      "glottolog": {
+        "glottocode": "anda1286",
+        "nombre": "Andaqui",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "2.74999",
+        "lon": "-76.0",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/anda1286"
+        }
+      }
+    }
   },
   "ano": {
     "iso3": "ano",
@@ -790,7 +2630,38 @@
       "url": "http://www.wikidata.org/entity/Q2669225",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2669225",
+        "url": "http://www.wikidata.org/entity/Q2669225",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Andoque",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ano"
+        }
+      },
+      "glottolog": {
+        "glottocode": "ando1256",
+        "nombre": "Andoque",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "-0.53751",
+        "lon": "-72.0869",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/ando1256"
+        }
+      }
+    }
   },
   "ans": {
     "iso3": "ans",
@@ -803,7 +2674,38 @@
       "url": "http://www.wikidata.org/entity/Q3446613",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3446613",
+        "url": "http://www.wikidata.org/entity/Q3446613",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Anserma",
+        "tipo": "E",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ans"
+        }
+      },
+      "glottolog": {
+        "glottocode": "anse1238",
+        "nombre": "Anserma",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "6.24999",
+        "lon": "-76.05",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/anse1238"
+        }
+      }
+    }
   },
   "arh": {
     "iso3": "arh",
@@ -816,7 +2718,38 @@
       "url": "http://www.wikidata.org/entity/Q2640621",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2640621",
+        "url": "http://www.wikidata.org/entity/Q2640621",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Arhuaco",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/arh"
+        }
+      },
+      "glottolog": {
+        "glottocode": "arhu1242",
+        "nombre": "Arhuaco",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "10.7018",
+        "lon": "-73.6363",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/arhu1242"
+        }
+      }
+    }
   },
   "kwi": {
     "iso3": "kwi",
@@ -829,7 +2762,38 @@
       "url": "http://www.wikidata.org/entity/Q2603103",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2603103",
+        "url": "http://www.wikidata.org/entity/Q2603103",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Awa-Cuaiquer",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/kwi"
+        }
+      },
+      "glottolog": {
+        "glottocode": "awac1239",
+        "nombre": "Awa-Cuaiquer",
+        "macroarea": "South America",
+        "familia": "Barbacoan",
+        "lat": "1.21652",
+        "lon": "-78.3401",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/awac1239"
+        }
+      }
+    }
   },
   "bao": {
     "iso3": "bao",
@@ -842,7 +2806,38 @@
       "url": "http://www.wikidata.org/entity/Q2883738",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2883738",
+        "url": "http://www.wikidata.org/entity/Q2883738",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Waimaha",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/bao"
+        }
+      },
+      "glottolog": {
+        "glottocode": "waim1255",
+        "nombre": "Waimaha",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.30416",
+        "lon": "-70.1644",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/waim1255"
+        }
+      }
+    }
   },
   "mot": {
     "iso3": "mot",
@@ -855,7 +2850,38 @@
       "url": "http://www.wikidata.org/entity/Q2886281",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2886281",
+        "url": "http://www.wikidata.org/entity/Q2886281",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Barí",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/mot"
+        }
+      },
+      "glottolog": {
+        "glottocode": "bari1297",
+        "nombre": "Barí",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "9.08497",
+        "lon": "-72.9353",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/bari1297"
+        }
+      }
+    }
   },
   "kbh": {
     "iso3": "kbh",
@@ -868,7 +2894,38 @@
       "url": "http://www.wikidata.org/entity/Q2842667",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2842667",
+        "url": "http://www.wikidata.org/entity/Q2842667",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Camsá",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/kbh"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cams1241",
+        "nombre": "Camsá",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "1.14537",
+        "lon": "-76.8931",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cams1241"
+        }
+      }
+    }
   },
   "cbg": {
     "iso3": "cbg",
@@ -881,7 +2938,38 @@
       "url": "http://www.wikidata.org/entity/Q2963680",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2963680",
+        "url": "http://www.wikidata.org/entity/Q2963680",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Chimila",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cbg"
+        }
+      },
+      "glottolog": {
+        "glottocode": "chim1309",
+        "nombre": "Chimila",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "10.1902",
+        "lon": "-74.2559",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/chim1309"
+        }
+      }
+    }
   },
   "cub": {
     "iso3": "cub",
@@ -894,7 +2982,38 @@
       "url": "http://www.wikidata.org/entity/Q3006705",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3006705",
+        "url": "http://www.wikidata.org/entity/Q3006705",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cubeo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/cub"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cube1242",
+        "nombre": "Cubeo",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "1.32382",
+        "lon": "-70.1939",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cube1242"
+        }
+      }
+    }
   },
   "des": {
     "iso3": "des",
@@ -907,7 +3026,38 @@
       "url": "http://www.wikidata.org/entity/Q962392",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q962392",
+        "url": "http://www.wikidata.org/entity/Q962392",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Desano",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/des"
+        }
+      },
+      "glottolog": {
+        "glottocode": "desa1247",
+        "nombre": "Desano",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.58157",
+        "lon": "-69.4955",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/desa1247"
+        }
+      }
+    }
   },
   "gum": {
     "iso3": "gum",
@@ -920,7 +3070,38 @@
       "url": "http://www.wikidata.org/entity/Q2744745",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2744745",
+        "url": "http://www.wikidata.org/entity/Q2744745",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Guambiano",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/gum"
+        }
+      },
+      "glottolog": {
+        "glottocode": "guam1248",
+        "nombre": "Guambiano",
+        "macroarea": "South America",
+        "familia": "Barbacoan",
+        "lat": "2.55849",
+        "lon": "-76.582",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/guam1248"
+        }
+      }
+    }
   },
   "jup": {
     "iso3": "jup",
@@ -933,7 +3114,38 @@
       "url": "http://www.wikidata.org/entity/Q3143384",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3143384",
+        "url": "http://www.wikidata.org/entity/Q3143384",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Hupdë",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/jup"
+        }
+      },
+      "glottolog": {
+        "glottocode": "hupd1244",
+        "nombre": "Hup",
+        "macroarea": "South America",
+        "familia": "Naduhup",
+        "lat": "0.58622",
+        "lon": "-69.8359",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/hupd1244"
+        }
+      }
+    }
   },
   "kog": {
     "iso3": "kog",
@@ -946,7 +3158,38 @@
       "url": "http://www.wikidata.org/entity/Q3198286",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3198286",
+        "url": "http://www.wikidata.org/entity/Q3198286",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Cogui",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/kog"
+        }
+      },
+      "glottolog": {
+        "glottocode": "cogu1240",
+        "nombre": "Cogui",
+        "macroarea": "South America",
+        "familia": "Chibchan",
+        "lat": "10.9485",
+        "lon": "-73.8043",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/cogu1240"
+        }
+      }
+    }
   },
   "pui": {
     "iso3": "pui",
@@ -959,7 +3202,38 @@
       "url": "http://www.wikidata.org/entity/Q3027918",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3027918",
+        "url": "http://www.wikidata.org/entity/Q3027918",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Puinave",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pui"
+        }
+      },
+      "glottolog": {
+        "glottocode": "puin1248",
+        "nombre": "Puinave",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "3.92974",
+        "lon": "-67.6886",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/puin1248"
+        }
+      }
+    }
   },
   "guh": {
     "iso3": "guh",
@@ -972,7 +3246,38 @@
       "url": "http://www.wikidata.org/entity/Q2669193",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2669193",
+        "url": "http://www.wikidata.org/entity/Q2669193",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Guahibo",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/guh"
+        }
+      },
+      "glottolog": {
+        "glottocode": "guah1255",
+        "nombre": "Sikuani",
+        "macroarea": "South America",
+        "familia": "Guahiboan",
+        "lat": "5.81736",
+        "lon": "-68.9839",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/guah1255"
+        }
+      }
+    }
   },
   "tit": {
     "iso3": "tit",
@@ -985,7 +3290,38 @@
       "url": "http://www.wikidata.org/entity/Q3029805",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3029805",
+        "url": "http://www.wikidata.org/entity/Q3029805",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Tinigua",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tit"
+        }
+      },
+      "glottolog": {
+        "glottocode": "tini1245",
+        "nombre": "Tinigua",
+        "macroarea": "South America",
+        "familia": "",
+        "lat": "2.716",
+        "lon": "-73.768",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/tini1245"
+        }
+      }
+    }
   },
   "tue": {
     "iso3": "tue",
@@ -998,7 +3334,38 @@
       "url": "http://www.wikidata.org/entity/Q2520538",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2520538",
+        "url": "http://www.wikidata.org/entity/Q2520538",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Tuyuca",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tue"
+        }
+      },
+      "glottolog": {
+        "glottocode": "tuyu1244",
+        "nombre": "Tuyuca",
+        "macroarea": "South America",
+        "familia": "Tucanoan",
+        "lat": "0.39441",
+        "lon": "-70.043515",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/tuyu1244"
+        }
+      }
+    }
   },
   "guc": {
     "iso3": "guc",
@@ -1011,7 +3378,38 @@
       "url": "http://www.wikidata.org/entity/Q891085",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q891085",
+        "url": "http://www.wikidata.org/entity/Q891085",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Wayuu",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/guc"
+        }
+      },
+      "glottolog": {
+        "glottocode": "wayu1243",
+        "nombre": "Wayuu",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "11.395566",
+        "lon": "-72.199791",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/wayu1243"
+        }
+      }
+    }
   },
   "noa": {
     "iso3": "noa",
@@ -1024,7 +3422,38 @@
       "url": "http://www.wikidata.org/entity/Q3111873",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3111873",
+        "url": "http://www.wikidata.org/entity/Q3111873",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Woun Meu",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/noa"
+        }
+      },
+      "glottolog": {
+        "glottocode": "woun1238",
+        "nombre": "Woun Meu",
+        "macroarea": "South America",
+        "familia": "Chocoan",
+        "lat": "8.5",
+        "lon": "-78.0",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/woun1238"
+        }
+      }
+    }
   },
   "que": {
     "iso3": "que",
@@ -1037,7 +3466,25 @@
       "url": "http://www.wikidata.org/entity/Q5218",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q5218",
+        "url": "http://www.wikidata.org/entity/Q5218",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Quechua",
+        "tipo": "L",
+        "ambito": "M",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/que"
+        }
+      }
+    }
   },
   "hto": {
     "iso3": "hto",
@@ -1050,7 +3497,38 @@
       "url": "http://www.wikidata.org/entity/Q948514",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q948514",
+        "url": "http://www.wikidata.org/entity/Q948514",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Minica Huitoto",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/hto"
+        }
+      },
+      "glottolog": {
+        "glottocode": "mini1256",
+        "nombre": "Minica Huitoto",
+        "macroarea": "South America",
+        "familia": "Huitotoan",
+        "lat": "-1.54535",
+        "lon": "-73.1107",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/mini1256"
+        }
+      }
+    }
   },
   "bmr": {
     "iso3": "bmr",
@@ -1063,7 +3541,38 @@
       "url": "http://www.wikidata.org/entity/Q3027894",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3027894",
+        "url": "http://www.wikidata.org/entity/Q3027894",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Muinane",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/bmr"
+        }
+      },
+      "glottolog": {
+        "glottocode": "muin1242",
+        "nombre": "Muinane",
+        "macroarea": "South America",
+        "familia": "Boran",
+        "lat": "-0.8652",
+        "lon": "-72.4249",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/muin1242"
+        }
+      }
+    }
   },
   "huu": {
     "iso3": "huu",
@@ -1076,7 +3585,38 @@
       "url": "http://www.wikidata.org/entity/Q2640935",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q2640935",
+        "url": "http://www.wikidata.org/entity/Q2640935",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Murui Huitoto",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/huu"
+        }
+      },
+      "glottolog": {
+        "glottocode": "muru1274",
+        "nombre": "Murui Huitoto",
+        "macroarea": "South America",
+        "familia": "Huitotoan",
+        "lat": "-1.13669",
+        "lon": "-73.8331",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/muru1274"
+        }
+      }
+    }
   },
   "noj": {
     "iso3": "noj",
@@ -1089,7 +3629,38 @@
       "url": "http://www.wikidata.org/entity/Q5372139",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q5372139",
+        "url": "http://www.wikidata.org/entity/Q5372139",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Nonuya",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/noj"
+        }
+      },
+      "glottolog": {
+        "glottocode": "nonu1241",
+        "nombre": "Nonuya",
+        "macroarea": "South America",
+        "familia": "Huitotoan",
+        "lat": "-1.25",
+        "lon": "-72.5",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/nonu1241"
+        }
+      }
+    }
   },
   "pio": {
     "iso3": "pio",
@@ -1102,7 +3673,38 @@
       "url": "http://www.wikidata.org/entity/Q3382208",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3382208",
+        "url": "http://www.wikidata.org/entity/Q3382208",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Piapoco",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/pio"
+        }
+      },
+      "glottolog": {
+        "glottocode": "piap1246",
+        "nombre": "Piapoco",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "4.37718",
+        "lon": "-68.5953",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/piap1246"
+        }
+      }
+    }
   },
   "inb": {
     "iso3": "inb",
@@ -1115,7 +3717,38 @@
       "url": "http://www.wikidata.org/entity/Q35491",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q35491",
+        "url": "http://www.wikidata.org/entity/Q35491",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Inga",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/inb"
+        }
+      },
+      "glottolog": {
+        "glottocode": "inga1252",
+        "nombre": "Colombian Inga",
+        "macroarea": "South America",
+        "familia": "Quechuan",
+        "lat": "1.00313",
+        "lon": "-76.8606",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/inga1252"
+        }
+      }
+    }
   },
   "rom": {
     "iso3": "rom",
@@ -1128,7 +3761,46 @@
       "url": "http://www.wikidata.org/entity/Q13201",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q13201",
+        "url": "http://www.wikidata.org/entity/Q13201",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Romany",
+        "tipo": "L",
+        "ambito": "M",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/rom"
+        }
+      },
+      "glottolog": {
+        "glottocode": "roma1329",
+        "nombre": "Romani",
+        "macroarea": "Eurasia",
+        "familia": "Indo-European",
+        "lat": "48.71264771043614",
+        "lon": "14.802397418316678",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/roma1329"
+        }
+      },
+      "cldr": {
+        "nombre_es": "romaní",
+        "fuente": {
+          "tipo": "cldr",
+          "licencia": "CLDR Unicode (Unicode-DFS-2016)",
+          "url": "https://github.com/unicode-org/cldr"
+        }
+      }
+    }
   },
   "tca": {
     "iso3": "tca",
@@ -1141,7 +3813,38 @@
       "url": "http://www.wikidata.org/entity/Q1815205",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q1815205",
+        "url": "http://www.wikidata.org/entity/Q1815205",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Ticuna",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/tca"
+        }
+      },
+      "glottolog": {
+        "glottocode": "ticu1245",
+        "nombre": "Ticuna",
+        "macroarea": "South America",
+        "familia": "Ticuna-Yuri",
+        "lat": "-3.66289",
+        "lon": "-69.8723",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/ticu1245"
+        }
+      }
+    }
   },
   "ycn": {
     "iso3": "ycn",
@@ -1154,7 +3857,38 @@
       "url": "http://www.wikidata.org/entity/Q3438356",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q3438356",
+        "url": "http://www.wikidata.org/entity/Q3438356",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Yucuna",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/ycn"
+        }
+      },
+      "glottolog": {
+        "glottocode": "yucu1253",
+        "nombre": "Yucuna",
+        "macroarea": "South America",
+        "familia": "Arawakan",
+        "lat": "-0.76075",
+        "lon": "-71.0033",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/yucu1253"
+        }
+      }
+    }
   },
   "yrl": {
     "iso3": "yrl",
@@ -1167,6 +3901,45 @@
       "url": "http://www.wikidata.org/entity/Q34333",
       "licencia": "CC0"
     },
-    "estado": "propuesto_sin_validar"
+    "estado": "propuesto_sin_validar",
+    "fuente_metadatos": {
+      "wikidata": {
+        "tipo": "wikidata",
+        "qid": "Q34333",
+        "url": "http://www.wikidata.org/entity/Q34333",
+        "licencia": "CC0"
+      },
+      "sil": {
+        "ref_name": "Nhengatu",
+        "tipo": "L",
+        "ambito": "I",
+        "fuente": {
+          "tipo": "sil",
+          "licencia": "ISO 639-3 SIL (CC-BY)",
+          "url": "https://iso639-3.sil.org/code/yrl"
+        }
+      },
+      "glottolog": {
+        "glottocode": "nhen1239",
+        "nombre": "Nhengatu",
+        "macroarea": "South America",
+        "familia": "Tupian",
+        "lat": "1.04503",
+        "lon": "-66.9646",
+        "fuente": {
+          "tipo": "glottolog",
+          "licencia": "Glottolog CLDF (CC-BY 4.0)",
+          "url": "https://glottolog.org/resource/languoid/id/nhen1239"
+        }
+      },
+      "cldr": {
+        "nombre_es": "ñe’engatú",
+        "fuente": {
+          "tipo": "cldr",
+          "licencia": "CLDR Unicode (Unicode-DFS-2016)",
+          "url": "https://github.com/unicode-org/cldr"
+        }
+      }
+    }
   }
 }

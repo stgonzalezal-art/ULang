@@ -72,14 +72,23 @@ def cargar_catalogo() -> dict:
 
 
 def pendientes(catalogo: dict, maximo: int) -> list[dict]:
+    """Lenguas cuya propuesta aun no tiene palabras (el pipeline de metadatos
+    puede dejar plantillas vacias 'propuesto'; el agente las rellena)."""
     out = []
     for iso, l in sorted(catalogo.items()):
         if l.get("estado") == "validado":
             continue
-        if os.path.isfile(os.path.join(PROPUESTAS, iso + ".json")):
-            continue
         if os.path.isfile(os.path.join(VALIDOS, iso + ".json")):
             continue
+        prop_path = os.path.join(PROPUESTAS, iso + ".json")
+        if os.path.isfile(prop_path):
+            try:
+                with open(prop_path, encoding="utf-8") as f:
+                    prop = json.load(f)
+            except json.JSONDecodeError:
+                prop = {}
+            if any(prop.get("palabras", {}).values()):
+                continue  # ya tiene palabras; solo falta revision humana
         out.append(l)
         if len(out) >= maximo:
             break

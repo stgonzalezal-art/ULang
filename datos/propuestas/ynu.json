@@ -1,0 +1,52 @@
+{
+  "idioma": "Yauna",
+  "iso3": "ynu",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q8050347",
+      "url": "http://www.wikidata.org/entity/Q8050347",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Yahuna",
+      "tipo": "E",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/ynu"
+      }
+    },
+    "glottolog": {
+      "glottocode": "yahu1241",
+      "nombre": "Yahuna",
+      "macroarea": "South America",
+      "familia": "Tucanoan",
+      "lat": "-0.505365",
+      "lon": "-70.478211",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/yahu1241"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

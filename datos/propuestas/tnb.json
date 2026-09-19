@@ -1,0 +1,52 @@
+{
+  "idioma": "Western Tunebo",
+  "iso3": "tnb",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q57660014",
+      "url": "http://www.wikidata.org/entity/Q57660014",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Western Tunebo",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/tnb"
+      }
+    },
+    "glottolog": {
+      "glottocode": "west2651",
+      "nombre": "Western Tunebo",
+      "macroarea": "South America",
+      "familia": "Chibchan",
+      "lat": "6.90704",
+      "lon": "-72.6507",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/west2651"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

@@ -3,3 +3,5 @@ __pycache__/
 .env
 datos/trabajador.log
 datos/agente.log
+datos/proponer.log
+datos/cache/

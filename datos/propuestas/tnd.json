@@ -1,0 +1,52 @@
+{
+  "idioma": "Angosturas Tunebo",
+  "iso3": "tnd",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q25559604",
+      "url": "http://www.wikidata.org/entity/Q25559604",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Angosturas Tunebo",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/tnd"
+      }
+    },
+    "glottolog": {
+      "glottocode": "ango1257",
+      "nombre": "Angosturas Tunebo",
+      "macroarea": "South America",
+      "familia": "Chibchan",
+      "lat": "6.54198",
+      "lon": "-71.9212",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/ango1257"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

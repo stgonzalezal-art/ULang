@@ -1,0 +1,52 @@
+{
+  "idioma": "Border Kuna",
+  "iso3": "kvn",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q31777873",
+      "url": "http://www.wikidata.org/entity/Q31777873",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Border Kuna",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/kvn"
+      }
+    },
+    "glottolog": {
+      "glottocode": "bord1248",
+      "nombre": "Border Kuna",
+      "macroarea": "South America",
+      "familia": "Chibchan",
+      "lat": "7.92993",
+      "lon": "-77.1664",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/bord1248"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

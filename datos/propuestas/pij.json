@@ -1,0 +1,52 @@
+{
+  "idioma": "Idioma pijao",
+  "iso3": "pij",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q7193519",
+      "url": "http://www.wikidata.org/entity/Q7193519",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Pijao",
+      "tipo": "E",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/pij"
+      }
+    },
+    "glottolog": {
+      "glottocode": "pija1235",
+      "nombre": "Pijao",
+      "macroarea": "South America",
+      "familia": "Unclassifiable",
+      "lat": "0.49999",
+      "lon": "-75.3333",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/pija1235"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

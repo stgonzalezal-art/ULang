@@ -1,0 +1,52 @@
+{
+  "idioma": "Idioma carabayo",
+  "iso3": "cby",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q3441762",
+      "url": "http://www.wikidata.org/entity/Q3441762",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Carabayo",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/cby"
+      }
+    },
+    "glottolog": {
+      "glottocode": "cara1245",
+      "nombre": "Carabayo",
+      "macroarea": "South America",
+      "familia": "Unclassifiable",
+      "lat": "-1.7922",
+      "lon": "-69.9099",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/cara1245"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

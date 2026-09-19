@@ -1,0 +1,52 @@
+{
+  "idioma": "Macaguaje",
+  "iso3": "mcl",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q6722435",
+      "url": "http://www.wikidata.org/entity/Q6722435",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Macaguaje",
+      "tipo": "E",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/mcl"
+      }
+    },
+    "glottolog": {
+      "glottocode": "maca1261",
+      "nombre": "Macaguaje",
+      "macroarea": "South America",
+      "familia": "Tucanoan",
+      "lat": "0.49999",
+      "lon": "-75.8333",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/maca1261"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

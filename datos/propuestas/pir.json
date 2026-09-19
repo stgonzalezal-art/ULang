@@ -1,0 +1,52 @@
+{
+  "idioma": "Piratapuyo",
+  "iso3": "pir",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q3389119",
+      "url": "http://www.wikidata.org/entity/Q3389119",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Piratapuyo",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/pir"
+      }
+    },
+    "glottolog": {
+      "glottocode": "pira1254",
+      "nombre": "Wa'ikhana",
+      "macroarea": "South America",
+      "familia": "Tucanoan",
+      "lat": "0.50714",
+      "lon": "-69.5032",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/pira1254"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

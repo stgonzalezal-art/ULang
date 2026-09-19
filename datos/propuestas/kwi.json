@@ -1,0 +1,52 @@
+{
+  "idioma": "idioma awá pit",
+  "iso3": "kwi",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q2603103",
+      "url": "http://www.wikidata.org/entity/Q2603103",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Awa-Cuaiquer",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/kwi"
+      }
+    },
+    "glottolog": {
+      "glottocode": "awac1239",
+      "nombre": "Awa-Cuaiquer",
+      "macroarea": "South America",
+      "familia": "Barbacoan",
+      "lat": "1.21652",
+      "lon": "-78.3401",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/awac1239"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

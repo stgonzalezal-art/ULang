@@ -1,0 +1,52 @@
+{
+  "idioma": "Tanimuca",
+  "iso3": "tnc",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q36535",
+      "url": "http://www.wikidata.org/entity/Q36535",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Tanimuca-Retuarã",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/tnc"
+      }
+    },
+    "glottolog": {
+      "glottocode": "tani1257",
+      "nombre": "Tanimuca-Retuarã",
+      "macroarea": "South America",
+      "familia": "Tucanoan",
+      "lat": "-0.59023",
+      "lon": "-70.3853",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/tani1257"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

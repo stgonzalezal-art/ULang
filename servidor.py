@@ -43,7 +43,7 @@ def raiz():
         "ok": True,
         "servicio": "ULang",
         "descripcion": "capa de integracion multilingue (lengua -> IR -> codigo)",
-        "endpoints": ["/estado", "/catalogo", "/lexicons",
+        "endpoints": ["/estado", "/catalogo", "/lexicons", "/propuestas",
                       "POST /compilar", "POST /traducir"],
     })
 
@@ -73,6 +73,26 @@ def lexicons():
                     "estado": d.get("estado"),
                     "palabras": len(d.get("palabras", {})),
                     "iso3": d.get("iso3"),
+                }
+    return jsonify(out)
+
+
+@app.get("/propuestas")
+def propuestas():
+    """Propuestas generadas por el pipeline de metadatos (datos/propuestas/)."""
+    carpeta = os.path.join(BASE, "datos", "propuestas")
+    out = {}
+    if os.path.isdir(carpeta):
+        for nombre in sorted(os.listdir(carpeta)):
+            if nombre.endswith(".json"):
+                with open(os.path.join(carpeta, nombre), encoding="utf-8") as f:
+                    d = json.load(f)
+                palabras = d.get("palabras", {})
+                out[nombre[:-5]] = {
+                    "idioma": d.get("idioma"),
+                    "estado": d.get("estado"),
+                    "con_palabras": sum(1 for v in palabras.values() if v),
+                    "fuentes": sorted(d.get("fuente_metadatos", {}).keys()),
                 }
     return jsonify(out)
 

@@ -1,0 +1,52 @@
+{
+  "idioma": "Siona",
+  "iso3": "snn",
+  "estado": "propuesto",
+  "nota": "Generada por el pipeline de metadatos. Las palabras clave deben rellenarse desde literatura publicada o hablantes (nunca inventarse) y validarse con revisar.py.",
+  "fuente_metadatos": {
+    "wikidata": {
+      "tipo": "wikidata",
+      "qid": "Q3485116",
+      "url": "http://www.wikidata.org/entity/Q3485116",
+      "licencia": "CC0"
+    },
+    "sil": {
+      "ref_name": "Siona",
+      "tipo": "L",
+      "ambito": "I",
+      "fuente": {
+        "tipo": "sil",
+        "licencia": "ISO 639-3 SIL (CC-BY)",
+        "url": "https://iso639-3.sil.org/code/snn"
+      }
+    },
+    "glottolog": {
+      "glottocode": "sion1247",
+      "nombre": "Siona-Tetete",
+      "macroarea": "South America",
+      "familia": "Tucanoan",
+      "lat": "0.31733",
+      "lon": "-76.0237",
+      "fuente": {
+        "tipo": "glottolog",
+        "licencia": "Glottolog CLDF (CC-BY 4.0)",
+        "url": "https://glottolog.org/resource/languoid/id/sion1247"
+      }
+    }
+  },
+  "referencias": [],
+  "palabras": {
+    "FUNC": null,
+    "RETURN": null,
+    "PRINT": null,
+    "IF": null,
+    "ELSE": null,
+    "WHILE": null,
+    "TRUE": null,
+    "FALSE": null,
+    "AND": null,
+    "OR": null,
+    "NOT": null,
+    "END": null
+  }
+}

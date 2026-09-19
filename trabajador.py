@@ -51,7 +51,7 @@ def cargar_json(ruta, defecto):
 
 
 def fusionar(catalogo: dict, nuevos: list[dict]) -> tuple[dict, int, int]:
-    """Conserva el estado ya validado; nunca lo degrada."""
+    """Conserva el estado ya validado y los metadatos enriquecidos; nunca los degrada."""
     nuevos_n = 0
     for l in nuevos:
         prev = catalogo.get(l["iso3"])
@@ -59,6 +59,8 @@ def fusionar(catalogo: dict, nuevos: list[dict]) -> tuple[dict, int, int]:
             l["estado"] = prev.get("estado", l["estado"])
             if prev.get("palabras_validadas"):
                 l["palabras_validadas"] = prev["palabras_validadas"]
+            if prev.get("fuente_metadatos"):
+                l["fuente_metadatos"] = prev["fuente_metadatos"]
         else:
             nuevos_n += 1
         catalogo[l["iso3"]] = l
